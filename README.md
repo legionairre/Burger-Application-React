@@ -1,3 +1,6 @@
+# Burger-Application-React
+This repository has been generated for React (16.8) study by me
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
